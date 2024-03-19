@@ -1,2 +1,7 @@
 Notes:  
-    
+    Possible datasets:
+        https://imerit.net/blog/13-best-movie-data-sets-for-machine-learning-projects-all-pbm/
+        https://datasets.imdbws.com/
+        https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+        https://gist.github.com/tiangechen/b68782efa49a16edaf07dc2cdaa855ea
+        
